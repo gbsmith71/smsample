@@ -1,0 +1,10 @@
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\SwitchMediaSample.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\SwitchMediaSample.pdb
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\Xamarin.Forms.Core.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\Xamarin.Forms.Xaml.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\Xamarin.Forms.Core.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\Xamarin.Forms.Xaml.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\obj\Debug\SwitchMediaSample.csprojResolveAssemblyReference.cache
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\obj\Debug\SwitchMediaSample.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\obj\Debug\SwitchMediaSample.pdb
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\sample.m4v
