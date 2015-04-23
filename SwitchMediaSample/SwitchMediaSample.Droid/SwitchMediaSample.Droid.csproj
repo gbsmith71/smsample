@@ -86,7 +86,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DeviceServices.cs" />
-    <Compile Include="Controls\YoutubePageRenderer.cs" />
     <Compile Include="CustomWebViewRenderer.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
@@ -105,9 +104,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Properties\AndroidManifest.xml" />
-    <AndroidAsset Include="Assets\YTPlayerView-iframe-player.html">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </AndroidAsset>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SwitchMediaSample\SwitchMediaSample.csproj">

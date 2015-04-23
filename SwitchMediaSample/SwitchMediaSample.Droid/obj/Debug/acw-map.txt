@@ -1,4 +1,3 @@
-SwitchMediaSample.Droid.Controls.YoutubePageRenderer;switchmediasample.droid.controls.YoutubePageRenderer
 SwitchMediaSample.Droid.CustomWebViewRenderer;switchmediasample.droid.CustomWebViewRenderer
 SwitchMediaSample.Droid.MainActivity;switchmediasample.droid.MainActivity
 Android.Support.V4.Content.Loader.IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor

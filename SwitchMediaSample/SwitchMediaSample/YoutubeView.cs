@@ -59,6 +59,7 @@ namespace SwitchMediaSample
                 Orientation = StackOrientation.Vertical
             };
 
+            // MDR 23/04/2015 - Layout issues. webView too small on ios, has blank space below on android
             stackWeb.WidthRequest = display.ScreenWidthInches() * display.Xdpi;
             stackWeb.HeightRequest = display.ScreenWidthInches() * (9f / 16f) * display.Ydpi;
             
@@ -107,7 +108,7 @@ namespace SwitchMediaSample
             Task.Run(async () =>
             {
                 searchChangeCount++;
-                await Task.Delay(500);
+                await Task.Delay(900);
                 searchChangeCount--;
 
                 if (searchChangeCount == 0)
@@ -135,8 +136,9 @@ namespace SwitchMediaSample
 
                 Xamarin.Forms.Device.BeginInvokeOnMainThread(() =>
                 {
-                    this.searchResults.ItemsSource = ImageCellResult.Get(result.Items);
                     this.searchBox.Unfocus();
+                    this.searchResults.ItemsSource = ImageCellResult.Get(result.Items);
+                    Xamarin.Forms.Device.BeginInvokeOnMainThread(() => { this.title.Text = "Select a video"; });
                 });
 
                 //result.Items[0].Snippet.Title;

@@ -36,3 +36,5 @@ I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Deb
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\XLabs.Ioc.xml
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\XLabs.Platform.xml
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\XLabs.Platform.iOS.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
