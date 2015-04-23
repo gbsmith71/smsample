@@ -35,7 +35,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
-    <Compile Include="ButtonPage.cs" />
+    <Compile Include="EmbeddedResource.cs" />
+    <Compile Include="IBaseUrl.cs" />
+    <Compile Include="WebView.cs" />
+    <Compile Include="YoutubeView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -51,6 +54,11 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="sample.m4v">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="YTPlayerView-iframe-player.html">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>

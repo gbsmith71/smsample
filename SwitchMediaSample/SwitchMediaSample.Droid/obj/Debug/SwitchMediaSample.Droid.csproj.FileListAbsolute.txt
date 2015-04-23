@@ -24,3 +24,4 @@ I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\obj\Debug\re
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\obj\Debug\R.cs.flag
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\obj\Debug\uploadflags.txt
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\sample.m4v
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\YTPlayerView-iframe-player.html

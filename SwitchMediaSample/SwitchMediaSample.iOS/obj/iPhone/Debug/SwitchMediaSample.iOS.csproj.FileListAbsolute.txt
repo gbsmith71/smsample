@@ -27,3 +27,4 @@ I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Deb
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\Icon-Small.png
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\Icon-Small@2x.png
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\Icon-Small@3x.png
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\YTPlayerView-iframe-player.html

@@ -14,11 +14,11 @@ using System.Net;
 using System.Threading.Tasks;
 using System.Diagnostics;
 
-[assembly: ExportRenderer(typeof(SwitchMediaSample.ButtonPage), typeof(SwitchMediaSample.iOS.Controls.ButtonPageRenderer))]
+[assembly: ExportRenderer(typeof(SwitchMediaSample.YoutubePage), typeof(SwitchMediaSample.iOS.Controls.YoutubePageRenderer))]
 
 namespace SwitchMediaSample.iOS.Controls
 {
-    public class ButtonPageRenderer : PageRenderer
+    public class YoutubePageRenderer : PageRenderer
     {
         CustomButton button;
         UITextView textView;
@@ -26,7 +26,7 @@ namespace SwitchMediaSample.iOS.Controls
 
         MPMoviePlayerController moviePlayer;
 
-        public ButtonPageRenderer()
+        public YoutubePageRenderer()
         {
         }
 

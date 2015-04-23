@@ -27,3 +27,4 @@ I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhoneSimu
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhoneSimulator\Debug\SwitchMediaSampleiOS.pdb
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\SwitchMediaSample.dll.mdb
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\sample.m4v
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\YTPlayerView-iframe-player.html

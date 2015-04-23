@@ -12,26 +12,21 @@ namespace SwitchMediaSample
         public App()
         {
             // The root page of your application
-            MainPage = new ButtonPage
-            {
-                Content = new StackLayout
-                {
-                    VerticalOptions = LayoutOptions.Center,
-                    Children = {
-                        new Label {
-                            XAlign = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
-                        }
-                    }
-                }
-            };
+            //MainPage = new YoutubePage
+            //{
+            //    Content = new StackLayout
+            //    {
+            //        VerticalOptions = LayoutOptions.Center,
+            //        Children = {
+            //            new Label {
+            //                XAlign = TextAlignment.Center,
+            //                Text = "Welcome to Xamarin Forms!"
+            //            }
+            //        }
+            //    }
+            //};
 
-            //MainPage = new ButtonPage();
-        }
-
-        public static Page GetMainPage()
-        {
-            return new ButtonPage();
+            MainPage = new YoutubeView();
         }
 
         protected override void OnStart()

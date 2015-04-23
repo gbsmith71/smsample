@@ -7,13 +7,13 @@ using Xamarin.Forms;
 
 namespace SwitchMediaSample
 {
-    public class ButtonPage : ContentPage
+    public class YoutubePage : ContentPage
     {
         public string Text = "Custom content page";
 
-        
 
-        public ButtonPage()
+
+        public YoutubePage()
         {
             //BackgroundColor = Color.Blue;
         }
