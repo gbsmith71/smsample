@@ -1,4 +1,3 @@
-I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\sample.m4v
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\SwitchMediaSampleiOS.exe
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\SwitchMediaSampleiOS.pdb
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\SwitchMediaSample.dll
@@ -28,3 +27,12 @@ I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Deb
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\Icon-Small@2x.png
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\Icon-Small@3x.png
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\YTPlayerView-iframe-player.html
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\ExifLib.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\XLabs.Core.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\XLabs.Ioc.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\XLabs.Platform.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\XLabs.Platform.iOS.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\XLabs.Core.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\XLabs.Ioc.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\XLabs.Platform.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\XLabs.Platform.iOS.xml

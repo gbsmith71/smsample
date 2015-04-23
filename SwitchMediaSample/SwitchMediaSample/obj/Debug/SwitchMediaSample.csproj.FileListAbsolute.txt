@@ -7,5 +7,13 @@ I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\Xamarin.
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\obj\Debug\SwitchMediaSample.csprojResolveAssemblyReference.cache
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\obj\Debug\SwitchMediaSample.dll
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\obj\Debug\SwitchMediaSample.pdb
-I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\sample.m4v
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\YTPlayerView-iframe-player.html
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\ExifLib.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\XLabs.Core.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\XLabs.Ioc.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\XLabs.Platform.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\XLabs.Core.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\XLabs.Ioc.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\XLabs.Platform.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\Newtonsoft.Json.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\Newtonsoft.Json.xml

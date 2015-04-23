@@ -79,3 +79,16 @@ Xamarin.Forms.Platform.Android.WebViewRenderer.WebClient;xamarin.forms.platform.
 Xamarin.Forms.Platform.Android.VisualElementTracker.AttachTracker;xamarin.forms.platform.android.VisualElementTracker_AttachTracker
 Xamarin.Forms.Platform.Android.PickerRenderer;xamarin.forms.platform.android.PickerRenderer
 Xamarin.Forms.Platform.Android.PickerRenderer.PickerListener;xamarin.forms.platform.android.PickerRenderer_PickerListener
+XLabs.Platform.Device.Accelerometer;xlabs.platform.device.Accelerometer
+XLabs.Platform.Device.Battery.LevelMonitor;xlabs.platform.device.Battery_LevelMonitor
+XLabs.Platform.Device.Battery.ChargerMonitor;xlabs.platform.device.Battery_ChargerMonitor
+XLabs.Platform.Device.BroadcastMonitor;xlabs.platform.device.BroadcastMonitor
+XLabs.Platform.Device.Gyroscope;xlabs.platform.device.Gyroscope
+XLabs.Platform.Services.Geolocation.GeolocationContinuousListener;xlabs.platform.services.geolocation.GeolocationContinuousListener
+XLabs.Platform.Services.Geolocation.GeolocationSingleListener;xlabs.platform.services.geolocation.GeolocationSingleListener
+XLabs.Platform.Services.KeyVaultStorage.SecureData;xlabs.platform.services.KeyVaultStorage_SecureData
+XLabs.Platform.Services.Media.MediaPickerActivity;xlabs.platform.services.media.MediaPickerActivity
+XLabs.Platform.Services.Network;xlabs.platform.services.Network
+XLabs.Platform.Services.NfcDevice;xlabs.platform.services.NfcDevice
+XLabs.Platform.Services.NfcDevice.NfcMonitor;xlabs.platform.services.NfcDevice_NfcMonitor
+XLabs.Platform.Services.TextToSpeechService;xlabs.platform.services.TextToSpeechService

@@ -4,6 +4,8 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using XLabs.Ioc;
+using XLabs.Platform.Device;
 
 namespace SwitchMediaSample.iOS
 {
@@ -25,6 +27,11 @@ namespace SwitchMediaSample.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+
+            var resolverContainer = new SimpleContainer();
+            resolverContainer.Register<IDevice>(t => AppleDevice.CurrentDevice);
+            Resolver.SetResolver(resolverContainer.GetResolver());
+
             LoadApplication(new App());
                         
             return base.FinishedLaunching(app, options);

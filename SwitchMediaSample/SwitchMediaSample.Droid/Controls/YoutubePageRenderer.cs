@@ -12,7 +12,7 @@ using Android.Widget;
 using Xamarin.Forms.Platform.Android;
 using Xamarin.Forms;
 
-[assembly: ExportRenderer(typeof(SwitchMediaSample.YoutubePage), typeof(SwitchMediaSample.Droid.Controls.YoutubePageRenderer))]
+//[assembly: ExportRenderer(typeof(SwitchMediaSample.YoutubePage), typeof(SwitchMediaSample.Droid.Controls.YoutubePageRenderer))]
 namespace SwitchMediaSample.Droid.Controls
 {
     public class YoutubePageRenderer : PageRenderer

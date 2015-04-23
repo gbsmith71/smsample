@@ -68,12 +68,17 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"SwitchMediaSample.Droid.dll",
+		"ExifLib.dll",
 		"FormsViewGroup.dll",
 		"SwitchMediaSample.dll",
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Forms.Core.dll",
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Xaml.dll",
+		"XLabs.Core.dll",
+		"XLabs.Ioc.dll",
+		"XLabs.Platform.dll",
+		"XLabs.Platform.Droid.dll",
 		"System.Collections.Concurrent.dll",
 		"System.Collections.dll",
 		"System.ComponentModel.Annotations.dll",
@@ -123,6 +128,7 @@ class MonoPackageManager_Resources {
 		"System.Xml.ReaderWriter.dll",
 		"System.Xml.XDocument.dll",
 		"System.Xml.XmlSerializer.dll",
+		"Newtonsoft.Json.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

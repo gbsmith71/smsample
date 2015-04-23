@@ -28,5 +28,10 @@ namespace SwitchMediaSample.Droid
         {
             return ResourceLoader.GetEmbeddedResourceString(Assembly.GetAssembly(typeof(ResourceLoader)), "YTPlayerView-iframe-player.html");
         }
+
+        public string ApiKey
+        {
+            get { return "AIzaSyBIQcFUcI8abKIbwBmGvo1TpAcBl7g0br8"; }
+        }
     }
 }

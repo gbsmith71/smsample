@@ -23,5 +23,15 @@ I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\obj\Debug\re
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\obj\Debug\R.cs.flag
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\obj\Debug\uploadflags.txt
-I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\sample.m4v
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\YTPlayerView-iframe-player.html
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\ExifLib.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\XLabs.Core.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\XLabs.Ioc.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\XLabs.Platform.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\XLabs.Platform.Droid.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\XLabs.Core.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\XLabs.Ioc.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\XLabs.Platform.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\XLabs.Platform.Droid.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\Newtonsoft.Json.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\Newtonsoft.Json.xml

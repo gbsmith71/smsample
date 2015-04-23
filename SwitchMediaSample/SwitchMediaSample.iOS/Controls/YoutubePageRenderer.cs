@@ -14,7 +14,7 @@ using System.Net;
 using System.Threading.Tasks;
 using System.Diagnostics;
 
-[assembly: ExportRenderer(typeof(SwitchMediaSample.YoutubePage), typeof(SwitchMediaSample.iOS.Controls.YoutubePageRenderer))]
+//[assembly: ExportRenderer(typeof(SwitchMediaSample.YoutubePage), typeof(SwitchMediaSample.iOS.Controls.YoutubePageRenderer))]
 
 namespace SwitchMediaSample.iOS.Controls
 {

@@ -1,10 +1,15 @@
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\SwitchMediaSample.Droid.dll
+I:\code\SwitchMediaSample\packages\ExifLib.PCL.1.0.0\lib\portable-net45+sl50+win+WindowsPhoneApp81+wp80+MonoAndroid10+MonoTouch10\ExifLib.dll
 I:\code\SwitchMediaSample\packages\Xamarin.Forms.1.3.1.6296\lib\MonoAndroid10\FormsViewGroup.dll
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample\bin\Debug\SwitchMediaSample.dll
 I:\code\SwitchMediaSample\packages\Xamarin.Android.Support.v4.19.0.2\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
 I:\code\SwitchMediaSample\packages\Xamarin.Forms.1.3.1.6296\lib\MonoAndroid10\Xamarin.Forms.Core.dll
 I:\code\SwitchMediaSample\packages\Xamarin.Forms.1.3.1.6296\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
 I:\code\SwitchMediaSample\packages\Xamarin.Forms.1.3.1.6296\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
+I:\code\SwitchMediaSample\packages\XLabs.Core.2.0.5575\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Core.dll
+I:\code\SwitchMediaSample\packages\XLabs.IoC.2.0.5575\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Ioc.dll
+I:\code\SwitchMediaSample\packages\XLabs.Platform.2.0.5575\lib\MonoAndroid\XLabs.Platform.dll
+I:\code\SwitchMediaSample\packages\XLabs.Platform.2.0.5575\lib\MonoAndroid\XLabs.Platform.Droid.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.Concurrent.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.Annotations.dll
@@ -54,3 +59,4 @@ C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.ReaderWriter.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.XDocument.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.XmlSerializer.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.Droid\bin\Debug\Newtonsoft.Json.dll

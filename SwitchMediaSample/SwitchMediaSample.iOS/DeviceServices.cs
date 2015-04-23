@@ -22,5 +22,10 @@ namespace SwitchMediaSample.iOS
         {
             return ResourceLoader.GetEmbeddedResourceString(Assembly.GetAssembly(typeof(ResourceLoader)), "YTPlayerView-iframe-player.html");
         }
+
+        public string ApiKey
+        {
+            get { return "AIzaSyBts3O0NDrUf53A0iVzAQjPzFT76_waDDU"; }
+        }
     }
 }

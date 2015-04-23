@@ -6,6 +6,8 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using XLabs.Ioc;
+using XLabs.Platform.Device;
 
 namespace SwitchMediaSample.Droid
 {
@@ -14,6 +16,11 @@ namespace SwitchMediaSample.Droid
     {
         protected override void OnCreate(Bundle bundle)
         {
+            var resolverContainer = new SimpleContainer();
+            resolverContainer.Register<IDevice>(t => AndroidDevice.CurrentDevice);
+
+            Resolver.SetResolver(resolverContainer.GetResolver());
+
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);

@@ -26,5 +26,15 @@ I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimu
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhoneSimulator\Debug\SwitchMediaSampleiOS.exe
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhoneSimulator\Debug\SwitchMediaSampleiOS.pdb
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\SwitchMediaSample.dll.mdb
-I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\sample.m4v
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\YTPlayerView-iframe-player.html
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\ExifLib.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\XLabs.Core.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\XLabs.Ioc.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.iOS.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\XLabs.Core.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\XLabs.Ioc.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\XLabs.Platform.iOS.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
