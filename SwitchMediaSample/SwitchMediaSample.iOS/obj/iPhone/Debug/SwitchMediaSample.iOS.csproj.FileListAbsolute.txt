@@ -9,6 +9,9 @@ I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Deb
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\SwitchMediaSample.dll.mdb
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\SwitchMediaSample.iOS.csprojResolveAssemblyReference.cache
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\SwitchMediaSampleiOS.exe
+I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\SwitchMediaSampleiOS.pdb
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\Default-568h@2x.png
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\Default-Portrait.png
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\Default-Portrait@2x.png
@@ -24,6 +27,3 @@ I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Deb
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\Icon-Small.png
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\Icon-Small@2x.png
 I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\Icon-Small@3x.png
-I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\SwitchMediaSample.iOS.csprojResolveAssemblyReference.cache
-I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\SwitchMediaSampleiOS.exe
-I:\code\SwitchMediaSample\SwitchMediaSample\SwitchMediaSample.iOS\obj\iPhone\Debug\SwitchMediaSampleiOS.pdb
